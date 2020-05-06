@@ -1,4 +1,4 @@
-# lookit-stimuli-template
+# lookit-stimuli
 
 A template repository for Lookit researchers who want to host their stimuli on GitHub.
 
